@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tarea2</string>
+    <string name="desc_1">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel ornare purus, id feugiat leo. Curabitur vestibulum erat vitae fringilla pretium. Nullam tincidunt tincidunt sapien, sit amet eleifend diam volutpat non. Nullam ultricies sem libero, et sodales urna porttitor a. Suspendisse pretium augue tempor velit tristique congue. Donec lorem velit, sodales eu accumsan ut, eleifend vel nunc. Phasellus mauris metus, convallis accumsan imperdiet sed, aliquet eget nisl. Nunc interdum facilisis viverra. Nam pulvinar odio sit amet sapien venenatis, quis tincidunt sapien cursus. Mauris egestas, purus et tincidunt vulputate, felis risus vulputate lacus, quis scelerisque enim nunc pulvinar nulla. Suspendisse laoreet pulvinar nulla, a egestas ipsum feugiat eu. In blandit, ligula et pulvinar hendrerit, enim mi aliquam lacus, sed vulputate lectus justo vel magna. Aliquam vulputate ornare euismod. Fusce sapien magna, tincidunt eu magna ut, vulputate fermentum massa. </string>
+    <string name="desc_2">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vel ornare purus, id feugiat leo. Curabitur vestibulum erat vitae fringilla pretium. </string>
+    <string name="btn_s">S</string>
+    <string name="btn_m">M</string>
+    <string name="btn_l">L</string>
+    <string name="btn_xl">XL</string>
+    <string name="desc_articulo">DESCRIPTION</string>
+    <string name="tamaño_articulo">MEASUREMENT</string>
+    <string name="btn_agregar">ADD TO CART</string>
+    <string name="btn_deshacer">UNDO</string>
+    <string name="btn_agregado">ADDED</string>
+    <string name="titulo_articulo">VINTAGE BICYCLE</string>
+    <string name="titulo_color">COLOR</string>
+    <string name="toast_like">+1 to Vintage Bicycle</string>
+
+</resources>

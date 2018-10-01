@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_main_padding_rbtn">10dp</dimen>
+    <dimen name="activity_main_padding_btn">6dp</dimen>
+    <dimen name="activity_main_altura_imagen">200dp</dimen>
+    <dimen name="activity_main_padding">10dp</dimen>
+    <dimen name="activity_main_icono_tamaño">50dp</dimen>
+    <dimen name="activity_main_separador">1dp</dimen>
+    <dimen name="activity_main_margen">50dp</dimen>
+    <dimen name="activity_main_btn_like">30dp</dimen>
+    <dimen name="activity_main_btn_like_margen">30dp</dimen>
+
+    <dimen name="titulo">28sp</dimen>
+    <dimen name="titulo_contenido"></dimen>
+</resources>
